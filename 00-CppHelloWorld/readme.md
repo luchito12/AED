@@ -1,7 +1,7 @@
 Usuario github: luchito12
-◦ Legajo:1775005
-◦ Apellido: nuñez perez  
-◦ Nombre: luciano nahuel 
+• Legajo:1775005
+• Apellido: nuñez perez  
+• Nombre: luciano nahuel 
 • Número y título del trabajo:1º "Hello, World!" en C++
 • Transcripción del enunciado: 
 1. Si no posee una cuenta GitHub, crearla.
@@ -16,4 +16,4 @@ personal.
 9. Ejecutar el programa, y capturar su salida en un archivo output.txt .
 10.Publicar en el repositorio personal AED la carpeta 00-CppHelloWorld con readme.md, hello.cpp, y output.txt .
 11.La última tarea es informar el usuario GitHub en la lista indicada en el curso
-• Hipótesis de trabajo que surgen luego de leer el enunciado
+•Compilador usado: MinGW
