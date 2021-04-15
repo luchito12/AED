@@ -1,9 +1,16 @@
-Usuario github: luchito12
+
+• Usuario github: luchito12
+
 • Legajo:1775005
-• Apellido: nuñez perez  
-• Nombre: luciano nahuel 
+
+• Apellido: nuñez perez
+
+• Nombre: luciano nahuel
+
 • Número y título del trabajo:1º "Hello, World!" en C++
-• Transcripción del enunciado: 
+
+• Transcripción del enunciado:
+
 1. Si no posee una cuenta GitHub, crearla.
 2. Crear un repositorio público llamado AED.
 3. Escribir el archivo readme.md que actúa como front page del repositorio
@@ -16,4 +23,5 @@ personal.
 9. Ejecutar el programa, y capturar su salida en un archivo output.txt .
 10.Publicar en el repositorio personal AED la carpeta 00-CppHelloWorld con readme.md, hello.cpp, y output.txt .
 11.La última tarea es informar el usuario GitHub en la lista indicada en el curso
+
 •Compilador usado: MinGW
