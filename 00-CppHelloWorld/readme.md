@@ -7,7 +7,7 @@
 
 • Nombre: luciano nahuel
 
-• Número y título del trabajo:1º "Hello, World!" en C++
+• Número y título del trabajo:0º "Hello, World!" en C++
 
 • Transcripción del enunciado:
 
