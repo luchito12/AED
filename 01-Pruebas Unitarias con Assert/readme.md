@@ -30,4 +30,4 @@ char, unsigned, int, double, y string.
 6_Crédito Extra
 ¿Son esos realmente todos los tipos que vimos en clase?
 Justifique.
-si, a pesar de que existen otros tipos de datos como array,long,unsigned long,word, los que utlizamos en este trabajo son todos los que vimos hasta ahora en clase.
+ si, a pesar de que existen otros tipos de datos como array,long,unsigned long,word,float,short,void. Los que utlizamos en este trabajo son todos los que vimos hasta ahora en clase.
